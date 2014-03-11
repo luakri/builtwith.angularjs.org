@@ -1423,7 +1423,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage",
+        "Local Storage", 
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1590,12 +1590,12 @@
       ]
     },
     {
-      "name": "LicensingJS",
-      "thumb": "licensingjs/thumb.png",
+      "name": "LicensingJS", 
+      "thumb": "licensingjs/thumb.png", 
       "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/",
-      "info": "http://plus.google.com/u/0/102437918402681897261/",
-      "submitter": "mgbee8",
+      "url": "http://licensingjs.azurewebsites.net/", 
+      "info": "http://plus.google.com/u/0/102437918402681897261/", 
+      "submitter": "mgbee8", 
       "submissionDate": "2013-03-22",
       "tags": [
         "Demo",
@@ -1615,8 +1615,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production",
-        "Travel",
+        "Production", 
+        "Travel", 
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1713,18 +1713,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",
-      "thumb": "nodetetrinet/thumb.png",
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
-      "url": "http://net.lo2k.net",
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
-      "src": "https://github.com/xblaster/NodeTetrinet",
+      "name": "Node Tetrinet",  
+      "thumb": "nodetetrinet/thumb.png", 
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
+      "url": "http://net.lo2k.net", 
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
+      "src": "https://github.com/xblaster/NodeTetrinet", 
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo",
-      "Game",
-      "CSS3D", "WebSocket",
+      "Demo", 
+      "Game", 
+      "CSS3D", "WebSocket", 
       "jQuery",
       "Open Source"
       ]
@@ -1906,7 +1906,7 @@
         "To-Do"
       ]
     },
-    {
+	{
       "name": "Configure your own MINI.",
       "thumb": "mini-configurator/thumb.png",
       "desc": "Design and customise a MINI to make it your own. Choose from the entire MINI range.",
